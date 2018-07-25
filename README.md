@@ -8,9 +8,11 @@ This model can run more than 100fps on gtx1080ti!
 The code has been tested by myself, it can help you learn about TensorRT API and ssd fast!
 
 ## requirmets:
-1.TensorRT 4.0.1
-2.Cuda8.0 / Cuda9.0 and Cudnn 7.1
-3.OpenCV
+*1.TensorRT 4.0.1
+
+*2.Cuda8.0 / Cuda9.0 and Cudnn 7.1
+
+*3.OpenCV
 
 ## about TensorRT Scale layer
 Scale layer has been supported officially, but you must provide both scale param and bias param!!!

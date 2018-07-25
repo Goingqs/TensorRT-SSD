@@ -3,7 +3,7 @@ This code is sample to implement caffe-ssd.
 
 This sample implements a fast face detector based on caffe-ssd framework.
 
-This model can run more than 100fps on gtx1080ti!
+This model can run more than 250fps on gtx1080ti!
 
 The code has been tested by myself, it can help you learn about TensorRT API and ssd fast!
 

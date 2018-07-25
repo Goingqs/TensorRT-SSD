@@ -20,4 +20,4 @@ Scale layer has been supported officially, but you must provide both scale param
 If you just provide scale params, it won't work!
 
 ## about TensorRT Eltwise layer
-Scale layer has been supported officially too, but you can only provide two blobs as input!!!
+Eltwise layer has been supported officially too, but you can only provide two blobs as input!!!
